@@ -1,6 +1,13 @@
 <!-- home.html -->
-
+<head>
+    <meta charset="UTF-8">
+   
+    <link rel="stylesheet" href="{{STATIC_URL}}css/style.css">
+</head>
 <h1>Welcome</h1>
 <a>Hello, {{ user.get_full_name }}!</a>
 <br>
-<p><a href="/logout">Logout</a>
+<p>
+<button class="btn">    
+<a href="/logout">Logout</a>
+</button>

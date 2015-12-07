@@ -923,8 +923,8 @@ div.loginpanel a.register:before {
   padding-right: 6px;
 }
 div.loginpanel a.register:hover {
-  color: #2ecc71;
-  text-shadow: 0 1px #555;
+  color: #FFFFFF;
+  text-shadow: 0 1px #FFFFFF;
 }
 div.loginpanel a.register:active {
   text-shadow: 0 -1px #555555;
@@ -975,7 +975,7 @@ div.loginpanel div.txt label:before {
   top: 0px;
   font-family: 'entypo', sans-serif;
   font-size: 1.1em;
-  color: #2ecc71;
+  color: ;
   line-height: 58px;
   text-align: center;
   width: 50px;
@@ -1004,21 +1004,21 @@ div.loginpanel div.buttons span a {
 div.loginpanel input[type="button"] {
   cursor: pointer;
   color: #FFF;
-  text-shadow: 0 1px #27ae60;
+  text-shadow: 0 1px #FFFFFF;
   font-size: 1.2em;
   border: 0 none;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   border-radius: 4px;
   outline: none;
-  background-color: #2ecc71;
-  -webkit-box-shadow: 0 2px #27ae60, inset 0 0 #27ae60;
+  background-color: #134253;
+  -webkit-box-shadow: 0 2px #000000, inset 0 0 #27ae60;
   -moz-box-shadow: 0 2px #27ae60, inset 0 0 #27ae60;
   box-shadow: 0 2px #27ae60, inset 0 0 #27ae60;
 }
 div.loginpanel input[type="button"]:hover,
 div.loginpanel input[type="button"]:focus {
-  background-color: #29b765;
+  background-color: ;
   -webkit-box-shadow: 0 2px #229955, inset 0 0 #27ae60;
   -moz-box-shadow: 0 2px #229955, inset 0 0 #27ae60;
   box-shadow: 0 2px #229955, inset 0 0 #27ae60;
